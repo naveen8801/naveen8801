@@ -1,3 +1,6 @@
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
 ### Hi there, I'm Naveen... 👋
 
 ## I'm a Learner, Student and Competitive Programmer.
