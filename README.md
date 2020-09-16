@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
 
 
 ### Hi there, I'm Naveen... 👋
