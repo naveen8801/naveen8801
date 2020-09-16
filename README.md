@@ -1,4 +1,4 @@
-### Hi there, I'm Naveen - aka [Npower] 👋
+### Hi there, I'm Naveen... 👋
 
 ## I'm a Learner, Student and Competitive Programmer.
 
@@ -10,8 +10,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a target="_blank" href="https://www.linkedin.com/in/naveen-kumar-6777881ab/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a target="_blank" href="https://www.instagram.com/naveen_8801/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <br />
 
