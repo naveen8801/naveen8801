@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://npower8801.github.io/portfolio_web/" />]
 <a target="_blank" href="https://www.linkedin.com/in/naveen-kumar-6777881ab/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -32,6 +32,4 @@
 <br />
 
 ---
-
-website]: https://codeSTACKr.com
 
