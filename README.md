@@ -1,9 +1,9 @@
 ![Alt Text](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
 
 
-### Hi there, I'm Naveen... 👋  
+### Hi there, I'm Naveen... 👋  <a target="_blank" href="https://npower8801.github.io/portfolio_web/">Know Me !!</a>
 
-## I'm a Learner, Student and Competitive Programmer.<a target="_blank" href="https://npower8801.github.io/portfolio_web/">Know Me !!</a>
+## I'm a Learner, Student and Competitive Programmer.
 
 - 🔭 I’m Machine Learning and Deep Learning Enthusiast
 - 🌱 I’m currently learning everything 🤣
