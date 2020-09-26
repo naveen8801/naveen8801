@@ -1,9 +1,11 @@
 ![Alt Text](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
 
 
-### Hi there, I'm Naveen... 👋
+### Hi there, I'm Naveen... 👋  
 
-## I'm a Learner, Student and Competitive Programmer.
+## I'm a Learner, Student and Competitive Programmer.<a target="_blank" href="https://npower8801.github.io/portfolio_web/">
+  <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
 
 - 🔭 I’m Machine Learning and Deep Learning Enthusiast
 - 🌱 I’m currently learning everything 🤣
