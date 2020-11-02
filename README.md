@@ -5,7 +5,7 @@
 
 ## I'm a Learner, Student and Competitive Programmer.
 
-- 🔭 I’m Machine Learning and Deep Learning Enthusiast
+- 🔭 I’m Deep Learning Enthusiast
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to gain some experience in open source community.
 - ⚡ Fun fact: I love to draw doodles.
