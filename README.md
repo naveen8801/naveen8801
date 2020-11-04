@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+![Alt Text]
 
 
 ### Hi there, I'm Naveen... 👋  <a target="_blank" href="https://npower8801.github.io/portfolio_web/">Know Me !!</a>
