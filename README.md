@@ -1,4 +1,4 @@
-![Alt Text]
+
 
 
 ### Hi there, I'm Naveen... 👋  <a target="_blank" href="https://npower8801.github.io/portfolio_web/">Know Me !!</a>
