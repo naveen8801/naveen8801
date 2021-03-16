@@ -1,7 +1,7 @@
 
 
 
-### Hi there, I'm Naveen... 👋  <a target="_blank" href="https://naveen8801.github.io/portfolio_web/">Know Me !!</a>
+### Hi there, I'm Naveen... 👋  <a target="_blank" href="https://portfolio-naveen.netlify.app/">Know Me !!</a>
 
 ## I'm a Learner, Student and Competitive Programmer.
 
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-<a target="_blank" href="https://naveen8801.github.io/portfolio_web/">
+<a target="_blank" href="https://portfolio-naveen.netlify.app/">
   <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/naveen-kumar-6777881ab/">
