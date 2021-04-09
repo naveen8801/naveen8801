@@ -12,8 +12,8 @@
 
 
 
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen8801&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen8801&layout=compact)]
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen8801&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen8801&layout=compact&theme=dark)]
 
 
 ### Connect with me:
