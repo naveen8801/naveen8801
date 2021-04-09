@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-kumar-6777881ab/)](https://www.linkedin.com/in/naveen-kumar-6777881ab/)
+[![Linkedin Badge](https://img.shields.io/badge/-naveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-kumar-6777881ab/)](https://www.linkedin.com/in/naveen-kumar-6777881ab/)
 
 <a target="_blank" href="https://portfolio-naveen.netlify.app/">
   <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
