@@ -22,24 +22,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@naveen_8801-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/naveen_8801)](https://twitter.com/naveen_8801)
 [![Instagram Badge](https://img.shields.io/badge/-@naveen_8801-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/naveen_8801/)](https://www.instagram.com/naveen_8801/)
 
-<a target="_blank" href="https://portfolio-naveen.netlify.app/">
-  <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/naveen-kumar-6777881ab/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 
-<a target="_blank" href="https://www.instagram.com/naveen_8801/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="mailto:naveensharma10d@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<br />
-
-
-<br />
 <br />
 
 ---
