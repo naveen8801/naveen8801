@@ -11,6 +11,11 @@
 - ⚡ Fun fact: I love to draw doodles.
 
 
+
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen8801&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen8801)]
+
+
 ### Connect with me:
 
 <a target="_blank" href="https://portfolio-naveen.netlify.app/">
