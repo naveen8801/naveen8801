@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Naveen... 👋  <a target="_blank" href="https://portfolio-naveen.netlify.app/">Know Me !!</a>
 
-## I'm a Learner, Student and Competitive Programmer.
+## I'm a Student and Learner.
 
 - 🔭 I’m Deep Learning Enthusiast
 - 🌱 I’m currently learning everything 🤣
