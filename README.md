@@ -7,7 +7,7 @@
 
 - 🔭 I’m Deep Learning Enthusiast
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to gain some experience in open source community.
+- 👯 I’m looking to gain more experience in open source community.
 - ⚡ Fun fact: I love to draw doodles.
 
 
