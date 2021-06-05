@@ -3,9 +3,12 @@
 
 ### Hi there, I'm Naveen... 👋  <a target="_blank" href="https://portfolio-naveen.netlify.app/">Know Me !!</a>
 
-<p align="center">
-    “I’m not a great programmer; I’m just a good programmer with great habits.”
-</p>
+
+***<p align="center">
+    “I’m not a great programmer; I’m just a good programmer with great habits.” ― Kent Beck
+</p>***
+
+
 
 ## I'm a Student and Learner.
 
