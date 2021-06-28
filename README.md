@@ -14,8 +14,6 @@
 - 👯 I’m looking to gain more experience in open source community.
 - ⚡ Fun fact: I love to draw doodles.
 
-
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=naveen8801&theme=react-dark)]
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen8801&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen8801&layout=compact&theme=tokyonight)
 
