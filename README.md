@@ -1,23 +1,36 @@
+<h2 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Naveen.
+</h2>
 
 
+<p align="center"><code><em>MERN Stack | Natural Language Processing | Open Source</em></code></p>
 
-### Hi there, I'm Naveen... 👋  <a target="_blank" href="https://portfolio-naveen.netlify.app/">Know Me !!</a>
 
+```javascript
+const NaveeN = {
+  pronouns: "he" | "him",
+  education: {
+  BTech : "JMIT, Kurukshetra University, Haryana",
+  },
+  languages: [Javascript, Python, C++, Java],
+  frameworks: [Reactjs, Nodejs, Expressjs, Python-Flask, Tensorflow]
+  tools: [React, Redux, Node, Styled-Components, Bootstrap],
+  platforms: ["Heroku", "Microsoft Azure"],
+}
 
-## I'm a Student and Learner.
+// “Make it work, make it right, make it fast.” – Kent Beck
 
-- 🔭 I’m Deep Learning Enthusiast
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to gain more experience in open source community.
-- ⚡ Fun fact: I love to draw doodles.
+```
 
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen8801&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen8801&layout=compact&theme=tokyonight&langs_count=8)
 
 
-### Connect with me:
+<p align="center">
+  <a href="https://portfolio-naveen.netlify.app/"><em>Portfolio</em></a> •
+  <a href="https://www.linkedin.com/in/naveen-kumar-6777881ab/"><em>Linkedin</em></a> •
+  <a href="https://twitter.com/naveen_8801"><em>Twitter</em></a> •
+  <a href="mailto:naveensharma10d@gmail.com"><em>Email</em></a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-naveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-kumar-6777881ab/)](https://www.linkedin.com/in/naveen-kumar-6777881ab/)
-[![Twitter Badge](https://img.shields.io/badge/-@naveen_8801-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/naveen_8801)](https://twitter.com/naveen_8801)
 
-<br />
+
