@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://portfolio-naveen.netlify.app/"><em>Portfolio</em></a> •
+<!--   <a href="https://portfolio-naveen.netlify.app/"><em>Portfolio</em></a> • -->
   <a href="https://www.linkedin.com/in/naveen-kumar-6777881ab/"><em>Linkedin</em></a> •
   <a href="https://twitter.com/naveen_8801"><em>Twitter</em></a> •
   <a href="mailto:naveensharma10d@gmail.com"><em>Email</em></a>
