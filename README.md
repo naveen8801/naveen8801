@@ -29,14 +29,6 @@ const NaveeN = {
 
 ```
 
-<p>
-    <a href="https://github.com/naveen8801/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Navenn's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen8801&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naveen8801&theme=dark)](https://git.io/streak-stats)
-
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen8801&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen8801&layout=compact&theme=tokyonight&langs_count=8)
 
