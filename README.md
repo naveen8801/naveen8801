@@ -29,8 +29,8 @@ const NaveeN = {
 
 ```
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen8801&layout=compact&theme=tokyonight&langs_count=8)
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveen8801&show_icons=true&theme=tokyonight)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen8801&theme=dark" alt="naveen8801" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen8801&layout=compact&theme=tokyonight&langs_count=8)
 
 
