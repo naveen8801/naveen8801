@@ -15,6 +15,7 @@
 
 ```javascript
 const NaveeN = {
+  currently : "Software Engineer",
   pronouns: "he" | "him",
   education: {
   BTech : "JMIT, Kurukshetra University, Haryana",
