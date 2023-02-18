@@ -29,10 +29,14 @@ const NaveeN = {
 // “Make it work, make it right, make it fast.” – Kent Beck
 
 ```
-<div style="display: flex; flex-direction : row;">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- <div style="display: flex; flex-direction : row;">
   <p><img src="https://github-readme-stats.vercel.app/api?username=naveen8801&count_private=true&show_icons=true&theme=tokyonight" alt="naveen8801" width="50%" /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen8801&theme=dark" alt="naveen8801" width="50%" /></p>
-</div>
+</div> -->
 
 
 
