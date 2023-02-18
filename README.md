@@ -30,8 +30,8 @@ const NaveeN = {
 
 ```
 
-<!--START_SECTION:Stats-->
-<!--END_SECTION:Stats-->
+<!--START_SECTION:SECTION_NAME -->
+<!--END_SECTION:SECTION_NAME -->
 
 <!-- <div style="display: flex; flex-direction : row;">
   <p><img src="https://github-readme-stats.vercel.app/api?username=naveen8801&count_private=true&show_icons=true&theme=tokyonight" alt="naveen8801" width="50%" /></p>
