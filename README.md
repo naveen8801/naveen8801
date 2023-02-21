@@ -30,7 +30,7 @@ const NaveeN = {
 
 ```
 
-<!--START_SECTION:SECTION_NAME -->
-<!--END_SECTION:SECTION_NAME -->
+<!--START_SECTION:stats-->
+<!--END_SECTION:stats-->
 
 
