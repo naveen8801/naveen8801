@@ -31,6 +31,14 @@ const NaveeN = {
 ```
 
 <!--START_SECTION:stats-->
+
+```text
+Total Time: 6 hrs 10 mins
+
+JavaScript   5 hrs 59 mins   ████████████████████████▒   97.14 %
+SCSS         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+```
+
 <!--END_SECTION:stats-->
 
 
