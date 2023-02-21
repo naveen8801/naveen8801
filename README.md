@@ -12,6 +12,7 @@
   <a href="mailto:naveensharma10d@gmail.com"><em>Email</em></a>
 </p>
 
+👋 **About**
 
 ```javascript
 const NaveeN = {
@@ -29,6 +30,7 @@ const NaveeN = {
 // “Make it work, make it right, make it fast.” – Kent Beck
 
 ```
+
 
 📊 **Weekly development breakdown**
 
