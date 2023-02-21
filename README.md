@@ -30,6 +30,8 @@ const NaveeN = {
 
 ```
 
+📊 **Weekly development breakdown**
+
 <!--START_SECTION:stats-->
 
 ```text
