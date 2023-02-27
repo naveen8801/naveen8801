@@ -41,9 +41,9 @@ From: 17 February 2023 - To: 26 February 2023
 
 Total Time: 24 hrs 13 mins
 
-JavaScript   23 hrs 15 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   96.02 %
-SCSS         41 mins         >------------------------   02.86 %
-Other        16 mins         -------------------------   01.10 %
+JavaScript   23 hrs 15 mins  ████████████████████████░   96.02 %
+SCSS         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:stats-->
