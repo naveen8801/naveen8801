@@ -18,3 +18,4 @@ jobs:
           TIME_RANGE: all_time
           SHOW_MASKED_TIME: true
           SECTION_NAME: "stats"
+          LANG_COUNT: 20
