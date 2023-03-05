@@ -37,14 +37,14 @@ const NaveeN = {
 <!--START_SECTION:stats-->
 
 ```text
-From: 17 February 2023 - To: 02 March 2023
+From: 17 February 2023 - To: 03 March 2023
 
-Total Time: 46 hrs 16 mins
+Total Time: 50 hrs 54 mins
 
-JavaScript   41 hrs 41 mins  ██████████████████████▓░░   90.10 %
-Python       3 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-SCSS         46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Other        16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+JavaScript   45 hrs 49 mins  ██████████████████████▓░░   90.04 %
+Python       3 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+SCSS         46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Other        16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:stats-->
