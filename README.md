@@ -2,7 +2,7 @@
 </h2>
 
 
-<p align="center"><code><em>Software Engineer | Natural Language Processing | Open Source</em></code></p>
+<p align="center"><code><em>Software Engineer | Open Source</em></code></p>
 
 
 <p align="center">
