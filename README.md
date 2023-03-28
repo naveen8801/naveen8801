@@ -37,7 +37,7 @@ const NaveeN = {
 <!--START_SECTION:stats-->
 
 ```text
-From: 17 February 2023 - To: 25 March 2023
+From: 17 February 2023 - To: 26 March 2023
 
 Total Time: 152 hrs 5 mins
 
