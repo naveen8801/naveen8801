@@ -37,17 +37,17 @@ const NaveeN = {
 <!--START_SECTION:stats-->
 
 ```text
-From: 17 February 2023 - To: 27 March 2023
+From: 17 February 2023 - To: 28 March 2023
 
-Total Time: 156 hrs 23 mins
+Total Time: 157 hrs 41 mins
 
-JavaScript   140 hrs 21 mins ██████████████████████▒░░   89.76 %
-Python       6 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-HTML         3 hrs 43 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-SCSS         1 hr 43 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-JSON         1 hr 41 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Bash         53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Other        39 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+JavaScript   141 hrs 39 mins ██████████████████████▒░░   89.84 %
+Python       6 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+HTML         3 hrs 43 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+SCSS         1 hr 43 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+JSON         1 hr 41 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Bash         53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Other        39 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:stats-->
