@@ -22,7 +22,7 @@ const NaveeN = {
   BTech : "JMIT, Kurukshetra University, Haryana",
   },
   languages: [Javascript, Python, C++, Java],
-  frameworks: [Reactjs, Nextjs, Nodejs, Expressjs, Python-Flask, Tensorflow],
+  frameworks: [Reactjs, Nextjs, Nodejs, Expressjs, Python-Flask, Django, Tensorflow],
   tools: [React, Redux, Node, Styled-Components, Bootstrap],
   platforms: ["Heroku", "Microsoft Azure"],
 }
