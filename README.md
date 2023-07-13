@@ -31,7 +31,7 @@ const NaveeN = {
 
 ```
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen8801&langs_count=8&layout=compact&theme=dark&card_width=1000" />
 </a>
 
