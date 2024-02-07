@@ -22,8 +22,7 @@ const NaveeN = {
   BTech : "JMIT, Kurukshetra University, Haryana",
   },
   languages: [Javascript, Python, C++, Java],
-  frameworks: [Reactjs, Nextjs, Nodejs, Expressjs, Python-Flask, Django, Tensorflow],
-  tools: [React, Redux, Node, Styled-Components, Bootstrap]
+  frameworks: [Reactjs, Nextjs, Nodejs, Expressjs, Python-Flask, Django, Tensorflow]
 }
 
 // “Make it work, make it right, make it fast.” – Kent Beck
