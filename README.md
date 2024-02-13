@@ -1,15 +1,11 @@
 <h2 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Naveen.
 </h2>
 
-
-<p align="center"><code><em>Software Engineer</em></code></p>
-
-
 <p align="center">
-  <a href="https://me-naveen8801.vercel.app/"><em>Portfolio</em></a> •
-  <a href="https://www.linkedin.com/in/naveen-kumar-6777881ab/"><em>Linkedin</em></a> •
+  <a href="https://me-naveen8801.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/naveen-kumar-6777881ab/">Linkedin</a> •
 <!--   <a href="https://twitter.com/naveen_8801"><em>Twitter</em></a> • -->
-  <a href="mailto:naveensharma10d@gmail.com"><em>Email</em></a>
+  <a href="mailto:naveensharma10d@gmail.com">Email</a>
 </p>
 
 👋 **About**
